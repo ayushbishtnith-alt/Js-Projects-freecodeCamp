@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # profilo-my
-=======
 # my-web
 >>>>>>> 707e69eafcaf81008b980165adde453dd0d61d5d
 
@@ -19,9 +18,9 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-<<<<<<< HEAD
+
 git remote add origin https://gitlab.com/ayushbishtnith-group/profilo-my.git
-=======
+
 git remote add origin https://gitlab.com/ayushbishtnith/my-web.git
 >>>>>>> 707e69eafcaf81008b980165adde453dd0d61d5d
 git branch -M main
@@ -30,9 +29,9 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-<<<<<<< HEAD
+
 * [Set up project integrations](https://gitlab.com/ayushbishtnith-group/profilo-my/-/settings/integrations)
-=======
+
 * [Set up project integrations](https://gitlab.com/ayushbishtnith/my-web/-/settings/integrations)
 >>>>>>> 707e69eafcaf81008b980165adde453dd0d61d5d
 
